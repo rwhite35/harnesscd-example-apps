@@ -1,7 +1,7 @@
 trigger:
   name: docker-trigger
   identifier: dockertrigger
-  enabled: true
+  enabled: false
   tags: {}
   orgIdentifier: ORGANIZATION_ID
   projectIdentifier: PROJECT_ID

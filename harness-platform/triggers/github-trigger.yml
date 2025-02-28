@@ -1,7 +1,7 @@
 trigger:
   name: git-trigger
   identifier: gittrigger
-  enabled: true
+  enabled: false
   encryptedWebhookSecretIdentifier: ""
   description: ""
   tags: {}

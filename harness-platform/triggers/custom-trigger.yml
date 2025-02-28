@@ -1,7 +1,7 @@
 trigger:
   name: custom-trigger
   identifier: customtrigger
-  enabled: true
+  enabled: false
   description: ""
   tags: {}
   stagesToExecute: []
